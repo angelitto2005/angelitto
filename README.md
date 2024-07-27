@@ -1,6 +1,6 @@
 ## Angelitto's favorite REPOs, and json PLAYERS
 
-<a href="/angelitto/repo/">repo</a><br>
+<a href="/angelitto/repo/">/angelitto/repo/</a><br>
 <a href="/angelitto/tmdbplayers/">tmdbplayers</a><br>
 
 Add this to kodi's file manager sources:

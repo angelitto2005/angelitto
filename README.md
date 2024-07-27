@@ -4,7 +4,7 @@ Add this to kodi's file manager sources:
 
 <b>https://angelitto2005.github.io/angelitto</b>
 
-and install the zips from that source.
+and install the zips you need, from there.
 
 
 

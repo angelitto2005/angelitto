@@ -2,9 +2,9 @@
 
 Add this to kodi's file manager sources:
 
-#### <b>https://angelitto2005.github.io/angelitto</b>
+###https://angelitto2005.github.io/angelitto
 or
-#### <b>https://cutt.ly/angelitto</b>
+###https://cutt.ly/angelitto
 
 and install the zips you need, from there.
 

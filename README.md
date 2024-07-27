@@ -2,10 +2,6 @@
 
 Add this to kodi's file manager sources:
 
-### https://angelitto2005.github.io/angelitto
-or
-### https://cutt.ly/angelitto
-
 <b>https://angelitto2005.github.io/angelitto</b><br>
 or<br>
 <b>https://cutt.ly/angelitto</b><br>

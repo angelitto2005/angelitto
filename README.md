@@ -6,6 +6,10 @@ Add this to kodi's file manager sources:
 or
 ### https://cutt.ly/angelitto
 
+<b>https://angelitto2005.github.io/angelitto</b>
+or
+<b>https://cutt.ly/angelitto</b>
+
 and install the zips you need, from there.
 
 

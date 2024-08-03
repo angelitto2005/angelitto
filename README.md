@@ -71,9 +71,9 @@ Elementum linux armv7 -
 Burst - 
 <a href="script.elementum.burst-0.0.88.zip">script.elementum.burst-0.0.88.zip</a><br>
 Youtube Kodi 20+ - 
-<a href="plugin.video.youtube-7.0.9+beta.6.zip">plugin.video.youtube-7.0.9+beta.6.zip</a><br>
+<a href="plugin.video.youtube-7.0.9+beta.7.zip">plugin.video.youtube-7.0.9+beta.7.zip</a><br>
 Youtube Kodi 18 (leia)
-<a href="plugin.video.youtube-7.0.9+beta.6.leia.1.zip">plugin.video.youtube-7.0.9+beta.6.leia.1.zip</a><br>
+<a href="plugin.video.youtube-7.0.9+beta.7.leia.1.zip">plugin.video.youtube-7.0.9+beta.7.leia.1.zip</a><br>
 Resolveurl - 
 <a href="script.module.resolveurl-5.1.134.zip">script.module.resolveurl-5.1.134.zip</a><br>
 Chro - 

@@ -82,4 +82,6 @@ Seren -
 <a href="repository.nixgates-2.2.0.zip">repository.nixgates-2.2.0.zip</a><br>
 Jacktook+Torrentio - 
 <a href="repository.jacktook-0.0.5.zip">repository.jacktook-0.0.5.zip</a><br>
+Torrest Player - 
+<a href="repository.github-0.0.9.zip">repository.github-0.0.9.zip</a><br>
 <hr>

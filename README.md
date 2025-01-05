@@ -80,4 +80,6 @@ Chro -
 <a href="plugin.video.chro.zip">plugin.video.chro.zip</a><br>
 Seren - 
 <a href="repository.nixgates-2.2.0.zip">repository.nixgates-2.2.0.zip</a><br>
+Jacktook+Torrentio - 
+<a href="repository.jacktook-0.0.5.zip">repository.jacktook-0.0.5.zip</a><br>
 <hr>

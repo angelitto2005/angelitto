@@ -61,6 +61,8 @@ tvOne11 -
 <a href="plugin.video.tvone11-27+matrix.1.zip">plugin.video.tvone11-27+matrix.1.zip</a><br>
 a4kSubtitles Nexus - 
 <a href="repository.hooty-1.0-a4kSubtitles-repository-Nexus.zip">repository.hooty-1.0-a4kSubtitles-repository-Nexus.zip</a><br>
+Playlist BEE - 
+<a href="plugin.video.playlistbee-3.1.zip">plugin.video.playlistbee-3.1.zip</a><br>
 XC MAC M3U - 
 <a href="plugin.video.macvod-v.1.993.zip">plugin.video.macvod-v.1.993.zip</a><br>
 <hr>

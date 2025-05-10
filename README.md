@@ -29,7 +29,7 @@ Estuary MOD v2&Playlist Loader -
 <a href="repository.kodinerds-7.0.1.6.zip">repository.kodinerds-7.0.1.6.zip</a><br>
 GTV Skin - 
 <a href="repository.roidy-matrix-0.0.1.zip">repository.roidy-matrix-0.0.1.zip</a><br>
-TMDbH - 
+TMDbH REPO - 
 <a href="repository.jurialmunkey-3.4.zip">repository.jurialmunkey-3.4.zip</a><br>
 MRSP - 
 <a href="repository.sarsaila-1.1.1.zip">repository.sarsaila-1.1.1.zip</a><br>
@@ -86,4 +86,6 @@ Jacktook+Torrentio -
 <a href="repository.jacktook-0.0.5.zip">repository.jacktook-0.0.5.zip</a><br>
 Torrest Player - 
 <a href="repository.github-0.0.9.zip">repository.github-0.0.9.zip</a><br>
+TMDbH addon OLD - 
+<a href="plugin.video.themoviedb.helper-6.0.10.zip">plugin.video.themoviedb.helper-6.0.10.zip</a><br>
 <hr>

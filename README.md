@@ -59,7 +59,7 @@ Elementum linux armv7 -
 Burst - 
 <a href="script.elementum.burst-0.0.88.zip">script.elementum.burst-0.0.88.zip</a><br>
 Youtube - 
-<a href="plugin.video.youtube-7.3.0+alpha.1.zip">plugin.video.youtube-7.3.0+alpha.1.zip</a><br>
+<a href="plugin.video.youtube-7.3.0+alpha.2.zip">plugin.video.youtube-7.3.0+alpha.2.zip</a><br>
 Resolveurl - 
 <a href="script.module.resolveurl-5.1.134.zip">script.module.resolveurl-5.1.134.zip</a><br>
 Chro - 

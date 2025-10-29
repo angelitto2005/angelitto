@@ -22,13 +22,17 @@ Kodi 19 Matrix -
 Bee-Queen - 
 <a href="repository.al8ina.zip">repository.al8ina.zip</a><br>
 Estuary MOD v2&Playlist Loader - 
-<a href="repository.kodinerds-7.0.1.6.zip">repository.kodinerds-7.0.1.6.zip</a><br>
+<a href="repository.kodinerds-7.0.1.7.zip">repository.kodinerds-7.0.1.7.zip</a><br>
 TMDbH REPO - 
-<a href="repository.jurialmunkey-3.4.zip">repository.jurialmunkey-3.4.zip</a><br>
+<a href="repository.jurialmunkey-3.5.zip">repository.jurialmunkey-3.5.zip</a><br>
 MRSP - 
 <a href="repository.sarsaila-1.1.1.zip">repository.sarsaila-1.1.1.zip</a><br>
+MRSP MOD - 
+<a href="plugin.video.romanianpack-1.1.84.zip">plugin.video.romanianpack-1.1.84.zip</a><br>
 Diamond Info Mod - 
 <a href="repository.newdiamond-2.2.zip">repository.newdiamond-2.2.zip</a><br>
+Elementum Org Repo- 
+<a href="repository.elementumorg-0.0.7.zip">repository.elementumorg-0.0.7.zip</a><br>
 The Promise&Elementum - 
 <a href="repository.loonaticsasylum-22.5.2.zip">repository.loonaticsasylum-22.5.2.zip</a><br>
 JewRepo&Scrubs v2 - 
@@ -59,9 +63,9 @@ Elementum linux armv7 -
 Burst - 
 <a href="script.elementum.burst-0.0.88.zip">script.elementum.burst-0.0.88.zip</a><br>
 Youtube - 
-<a href="plugin.video.youtube-7.3.0+alpha.3.zip">plugin.video.youtube-7.3.0+alpha.3.zip</a><br>
+<a href="plugin.video.youtube-7.3.0+beta.8.unofficial.1.zip">plugin.video.youtube-7.3.0+beta.8.unofficial.1.zip</a><br>
 Resolveurl - 
-<a href="script.module.resolveurl-5.1.134.zip">script.module.resolveurl-5.1.134.zip</a><br>
+<a href="script.module.resolveurl-5.1.184.zip">script.module.resolveurl-5.1.184.zip</a><br>
 Chro - 
 <a href="plugin.video.chro.zip">plugin.video.chro.zip</a><br>
 Jacktook+Torrentio - 

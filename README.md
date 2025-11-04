@@ -76,6 +76,8 @@ TMDbH addon OLD -
 <a href="plugin.video.themoviedb.helper-6.0.10.zip">plugin.video.themoviedb.helper-6.0.10.zip</a><br>
 Subtitle Subs.ro - 
 <a href="service.subtitles.subsro-1.3.13a.zip">service.subtitles.subsro-1.3.13a.zip</a><br>
-Subtitle Subs.ro v2 - 
-<a href="service.subtitles.subsro-v2.0.0.zip">service.subtitles.subsro-v2.0.0.zip</a><br>
+Subtitle Subs.ro v2 Windows - 
+<a href="service.subtitles.subsro-v2.0.0windows.zip">service.subtitles.subsro-v2.0.0windows.zip</a><br>
+Subtitle Subs.ro v2 Android - 
+<a href="service.subtitles.subsro-v2.0.0android.zip">service.subtitles.subsro-v2.0.0android.zip</a><br>
 <hr>

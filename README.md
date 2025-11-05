@@ -19,6 +19,8 @@ Kodi 19 Matrix -
 
 ## My favorite REPOs
 
+Angelitto Repository - 
+<a href="repository.angelitto-1.0.0.zip">repository.angelitto-1.0.0.zip</a><br>
 Bee-Queen - 
 <a href="repository.al8ina.zip">repository.al8ina.zip</a><br>
 Estuary MOD v2&Playlist Loader - 

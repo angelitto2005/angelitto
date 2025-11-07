@@ -57,6 +57,8 @@ Playlist BEE -
 <a href="plugin.video.playlistbee-3.1.zip">plugin.video.playlistbee-3.1.zip</a><br>
 XC MAC M3U - 
 <a href="plugin.video.macvod-v.1.993.zip">plugin.video.macvod-v.1.993.zip</a><br>
+Flix -
+<a href="plugin.video.flix-1.7.11.5.zip">plugin.video.flix-1.7.11.5.zip</a><br>
 <hr>
 Elementum linux arm64 - 
 <a href="plugin.video.elementum-0.1.98.linux_arm64.zip">plugin.video.elementum-0.1.98.linux_arm64.zip</a><br>

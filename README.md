@@ -78,10 +78,6 @@ Torrest Player -
 <a href="repository.github-0.0.9.zip">repository.github-0.0.9.zip</a><br>
 TMDbH addon OLD - 
 <a href="plugin.video.themoviedb.helper-6.0.10.zip">plugin.video.themoviedb.helper-6.0.10.zip</a><br>
-Subtitle Subs.ro v2 NO RAR - 
-<a href="service.subtitles.subsro-2.1.1.zip">service.subtitles.subsro-2.1.1.zip</a><br>
-Subtitle Subs.ro v2 RAR - 
-<a href="service.subtitles.subsro-2.5.0.zip">service.subtitles.subsro-2.5.0.zip</a><br>
-Subtitle Subs.ro v2 RAR+Lite - 
-<a href="service.subtitles.subsro-2.5.1.zip">service.subtitles.subsro-2.5.1.zip</a><br>
+Subs.ro Subtitrari Android test - 
+<a href="service.subtitles.subsro-2.5.2a.zip">service.subtitles.subsro-2.5.2a.zip</a><br>
 <hr>

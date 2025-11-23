@@ -22,7 +22,7 @@ Kodi 19 Matrix -
 Angelitto Repository - 
 <a href="repository.angelitto-1.0.2.zip">repository.angelitto-1.0.2.zip</a><br>
 Bee-Queen - 
-<a href="repository.al8ina.zip">repository.al8ina.zip</a><br>
+<a href="Bee-Queen-1.0.4.zip">Bee-Queen-1.0.4.zip</a><br>
 Estuary MOD v2&Playlist Loader - 
 <a href="repository.kodinerds-7.0.1.7.zip">repository.kodinerds-7.0.1.7.zip</a><br>
 TMDbH REPO - 

@@ -76,4 +76,6 @@ Torrest Player -
 <a href="repository.github-0.0.9.zip">repository.github-0.0.9.zip</a><br>
 TMDbH addon OLD - 
 <a href="plugin.video.themoviedb.helper-6.0.10.zip">plugin.video.themoviedb.helper-6.0.10.zip</a><br>
+POV - 
+<a href="repository.kodifitzwell-0.0.1.zip">repository.kodifitzwell-0.0.1.zip</a><br>
 <hr>

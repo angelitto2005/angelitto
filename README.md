@@ -90,8 +90,8 @@ I’m a passionate developer crafting Kodi add-ons that transform your streaming
   Stream torrents like a pro with integrated support for torrent2http, Elementum, and TorrServer. Instant and smooth playback at your fingertips.
 
 - **TMDb Movies**  
-  Unlock a world of movies and TV shows through HTTP streams and debrid services, powered by AIO Streams, Torrentio, MediaFusion, Comet, and Meteor.
-
+  Unlock a world of movies and TV shows through HTTP streams and debrid services, powered by AIO Streams, Torrentio, MediaFusion, Comet, Meteor, and many other HTTP streaming providers.
+  
 - **SubStudio**  
   The **instant subtitle translator** you’ve been waiting for! Start your movie and watch as subtitles are instantly translated into multiple languages — all without interrupting your flow.
 

@@ -82,27 +82,30 @@ POV -
 
 ## 👋 About Me
 
-I'm a developer and maintainer of several Kodi add-ons focused on streaming, subtitles, and usability.
+I’m a passionate developer crafting Kodi add-ons that transform your streaming experience. Whether it’s finding the best subtitles, streaming from various sources, or managing your media effortlessly, I’ve got you covered with tools that simplify and enhance your Kodi setup.
 
-Some of the projects I work on include:
-- **MRSP Lite**
-- **TMDb Movies**
-- **SubStudio**
-- **Subs.ro**
-- **Regielive**
-- **Titrari.ro**
-- **Subtitrari-noi.ro**
-- **Fast AutoSubs**
-- **Backup & Restore**
-- **My Custom Backup**
+### 🔥 My Projects
 
-I’m passionate about building tools that improve the Kodi experience and make content more accessible and easier to manage.
+- **MRSP Lite**  
+  Stream torrents like a pro with integrated support for torrent2http, Elementum, and TorrServer. Instant and smooth playback at your fingertips.
+
+- **TMDb Movies**  
+  Unlock a world of movies and TV shows through HTTP streams and debrid services, powered by AIO Streams, Torrentio, MediaFusion, Comet, and Meteor.
+
+- **SubStudio**  
+  The **instant subtitle translator** you’ve been waiting for! Start your movie and watch as subtitles are instantly translated into multiple languages — all without interrupting your flow.
+
+- **Romanian Subtitle Services**  
+  Add-ons like **Subs.ro**, **Titrari.ro**, **Subtitrari-noi.ro**, **Regielive**, and **Fast AutoSubs** bring subtitles from top Romanian sources directly into your Kodi experience.
+
+- **Backup & Restore Tools**  
+  Never lose your Kodi setup again! **Backup & Restore** and **My Custom Backup** give you the peace of mind to backup, restore, and clean your Kodi install with ease.
 
 ---
 
 ## ❤️ Support My Work
 
-If you find my projects useful and would like to support their development and maintenance, you can buy me a coffee:
+If you love these tools and want to help keep them going, consider supporting my work with a small donation. Your support helps me continue developing and improving these projects for the community.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I51YJEDC)
 

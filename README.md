@@ -80,4 +80,4 @@ POV -
 <a href="repository.kodifitzwell-0.0.1.zip">repository.kodifitzwell-0.0.1.zip</a><br>
 <hr>
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I51YJEDC)
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Buy me a coffee', '#72a4f2', 'I2I51YJEDC');kofiwidget2.draw();</script> 

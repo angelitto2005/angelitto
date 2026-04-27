@@ -79,3 +79,5 @@ TMDbH addon OLD -
 POV - 
 <a href="repository.kodifitzwell-0.0.1.zip">repository.kodifitzwell-0.0.1.zip</a><br>
 <hr>
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I51YJEDC)

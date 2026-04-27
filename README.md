@@ -81,29 +81,3 @@ POV -
 <hr>
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I51YJEDC)
-
-## 👋 About Me
-
-I'm a developer and maintainer of several Kodi add-ons focused on streaming, subtitles, and usability.
-
-Some of the projects I work on include:
-- **MRSP Lite**
-- **TMDb Movies**
-- **SubStudio**
-- **Subs.ro**
-- **Regielive**
-- **Titrari.ro**
-- **Subtitrari-noi.ro**
-- **Fast AutoSubs**
-- **Backup & Restore**
-- **My Custom Backup**
-
-I’m passionate about building tools that improve the Kodi experience and make content more accessible and easier to manage.
-
----
-
-## ❤️ Support My Work
-
-If you find my projects useful and would like to support their development and maintenance, you can buy me a coffee:
-
-👉 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I51YJEDC)

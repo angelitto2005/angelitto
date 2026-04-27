@@ -109,3 +109,6 @@ If you love these tools and want to help keep them going, consider supporting my
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I51YJEDC)
 
+---
+
+All of these add-ons can be found in my repository: [repository.angelitto](https://angelitto2005.github.io/repository.angelitto/)
